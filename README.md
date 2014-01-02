@@ -1,73 +1,64 @@
 # Semantic [![Build Status](https://travis-ci.org/Semantic-Org/Semantic-UI.png)](https://travis-ci.org/Semantic-Org/Semantic-UI)
-Semantic is a UI Component library implemented using a set of specifications designed around natural language
 
-Semantic UI is under constant development, so **be sure to check out our [release notes](https://github.com/Semantic-Org/Semantic-UI/blob/master/RELEASE%20NOTES.md) for recent changes**.
+Semantic é uma biblioteca de componentes de UI implementada usando um conjunto de especificações baseadas na linguagem natural.
+
+Semantic UI está sobre desenvolvimento constante, então **certifique-se de checar nossas [notas de lançamento](https://github.com/Semantic-Org/Semantic-UI/blob/master/RELEASE%20NOTES.md) para atualizações recentes**.
 
 [![Flattr This](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=jlukic&url=https%3A%2F%2Fgithub.com%2Fjlukic%2FSemantic-UI)
 
-### Translations
-* [中文翻译 Semantic UI](http://semantic.icoolxue.com/)
+### Bugs e Problemas
 
-We need people who can contribute to translations of Semantic UI's documentation. 
+> Semantic UI é pronto para produção, mas está em "pré-lançamento" até que ferrmanetos de compilação e personalização estejam disponíveis, e a documentação esteja completa para todos os componentes.
 
-Please [reach out by e-mail](mailto:jack@semantic-ui.com) if you can help.
+Por favor [compartilhe qualquer problema](https://github.com/Semantic-Org/Semantic-UI/issues?state=open) que você tiver, nós precisamos da sua ajuda para tirar todas as esquisitices.
 
-### Bugs and Issues
+Se você está reportando um bug, *é necessário criar um caso de teste*. Você pode [fork this jsfiddle](http://jsfiddle.net/Vbr9d/42/) para começar.
 
-> Semantic UI is production ready, but is "pre-release" until build and theming tools are available, and documentation is complete for all components.
+### Suporte dos Navegadores
 
-Please [share any issues](https://github.com/Semantic-Org/Semantic-UI/issues?state=open) you may have, we need your help to get all the kinks out.
-
-If you are reporting a bug *you must create a test-case*. You can [fork this jsfiddle](http://jsfiddle.net/Vbr9d/42/) to get you started.
-
-### Browser Support
-
-* Last 2 Versions FF, Chrome, IE (aka 10+)
+* Últimas 2 versões do Firefox, Chrome
+* IE10+
 * Safari 6
-* IE 9+ (Browser prefix only)
+* IE 9 (somente com prefixos do navegador)
 * Android 4
 * Blackberry 10
 
-## Getting Started
+## Iniciando
 
-The Semantic library describes many UI elements. In most instances it might be best to build a custom build with only the elements you need.
+A biblioteca Semantic descreve muito elementos de UI. No geral, pode ser melhor construir uma build personalizada só com os elementos que você precisa.
 
-To download the entire library
+Para baixar a biblioteca completa
 
     git clone git@github.com:Semantic-Org/Semantic-UI.git
 
-If you prefer to download the whole kit as a zip, it is so conveniently packaged.
+Se você prefere baixar o kit inteiro como um .zip, ele já está convenientemente compactado.
 
     http://semantic-ui.com/build/semantic.zip
 
-**Build tools for creating customized downloads will be available in 1.0** Until then we suggest using an asset management tool like [grunt](https://github.com/gruntjs/grunt-cli) or [jammit](https://github.com/documentcloud/jammit) to create packaged versions for use in production.
+**Ferramentas de compilação para criar downloads customizados estarão disponíveis na versão 1.0** Até lá nós sugerios uma ferramenta de gerenciamento de recursos como [grunt](https://github.com/gruntjs/grunt-cli) ou [jammit](https://github.com/documentcloud/jammit) para criar versões compactadas para uso em produção.
 
-If you need help, come hang out in `#semantic-ui` on *irc.freenode.net*.  Click here to use [webchat](http://webchat.freenode.net/?randomnick=1&channels=%23semantic-ui&prompt=1&uio=OT10cnVlJjExPTEyMwb9).
+Se você precisar de ajuda, fale conosco no canal `#semantic-ui` no *irc.freenode.net*. Clique aqui para usar o [webchat](http://webchat.freenode.net/?randomnick=1&channels=%23semantic-ui&prompt=1&uio=OT10cnVlJjExPTEyMwb9).
 
-#### Right-to-Left (RTL Version)
+### Integração
 
-RTL versions are compiled on every patch update, and are available in ``/rtl/``
+A comunidade contribuiu com plugins para Wordpress, Angular, Knockout, Rails. Mais informações na [Página de integração](https://github.com/Semantic-Org/Semantic-UI/wiki/Integration).
 
-### Integration
+## Aprenda mais
 
-Comunity contributed plugins and ports for Wordpress, Angular, Knockout, Rails, and more can be found on the [Integration page](https://github.com/Semantic-Org/Semantic-UI/wiki/Integration).
+* [Introdução ao Semantic](http://www.semantic-ui.com/introduction.html)
+* [Módulos do Semantic](http://www.semantic-ui.com/module.html)
+* [Contribuindo para Semantic](http://semantic-ui.com/project/contributing.html)
+* [Executando Docs/Servidor Localmente](http://semantic-ui.com/project/development)
 
-## Learn More
-
-* [Introduction to Semantic](http://www.semantic-ui.com/introduction.html)
-* [Semantic Modules](http://www.semantic-ui.com/module.html)
-* [Contributing to Semantic](http://semantic-ui.com/project/contributing.html)
-* [Running Docs/Server Locally](http://semantic-ui.com/project/development)
-
-If you want to keep track of development, please [join our google group](https://groups.google.com/forum/?hl=en#!forum/semantic-ui)
+Se você quiser acompanhar o desenvolvimento, por favor [participe do no grupo no Google](https://groups.google.com/forum/?hl=en#!forum/semantic-ui)
 
 
-#### Reaching Out
+#### Contato
 
-If you'd like to start a conversation about Semantic feel free to reach out by e-mail [jack@semantic-ui.com](mailto:jack@semantic-ui.com)
+Se você gostaria de começar uma conversa sobre Semantic, sinta-se à vontade para contactar por email [jack@semantic-ui.com](mailto:jack@semantic-ui.com)
 
 
-### Roadmap
-* [Features Missing for 1.0](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&milestone=1&page=1&sort=updated&state=open)
-* [Planned Updates for 1.X](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&milestone=2&page=1&sort=updated&state=open)
-* [Additional Components Scoped for 2.0](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&labels=&milestone=3&page=1&sort=updated&state=open)
+### Roteiro
+* [Recursos em falta para a versão 1.0](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&milestone=1&page=1&sort=updated&state=open)
+* [Atualizações planejadas para 1.X](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&milestone=2&page=1&sort=updated&state=open)
+* [Componentes Adicionais Visados para 2.0](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&labels=&milestone=3&page=1&sort=updated&state=open)
