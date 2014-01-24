@@ -33,7 +33,7 @@ Se você prefere baixar o kit inteiro como um .zip, ele já está convenientemen
 
     http://semantic-ui.com/build/semantic.zip
 
-**Ferramentas de compilação para criar downloads customizados estarão disponíveis na versão 1.0** Até lá nós sugerimos uma ferramenta de gerenciamento de recursos como [grunt](https://github.com/gruntjs/grunt-cli) ou [jammit](https://github.com/documentcloud/jammit) para criar versões compactadas para uso em produção.
+**Ferramentas de compilação para criar downloads customizados estarão disponíveis na versão 1.0**. Até lá nós sugerimos uma ferramenta de gerenciamento de recursos como [grunt](https://github.com/gruntjs/grunt-cli) ou [jammit](https://github.com/documentcloud/jammit) para criar versões compactadas para uso em produção.
 
 Se você precisar de ajuda, fale conosco no canal `#semantic-ui` no *irc.freenode.net*. Clique aqui para usar o [webchat](http://webchat.freenode.net/?randomnick=1&channels=%23semantic-ui&prompt=1&uio=OT10cnVlJjExPTEyMwb9).
 
@@ -59,4 +59,4 @@ Se você gostaria de começar uma conversa sobre Semantic, sinta-se à vontade p
 ### Roteiro
 * [Recursos em falta para a versão 1.0](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&milestone=1&page=1&sort=updated&state=open)
 * [Atualizações planejadas para 1.X](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&milestone=2&page=1&sort=updated&state=open)
-* [Componentes Adicionais Visados para 2.0](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&labels=&milestone=3&page=1&sort=updated&state=open)
+* [Componentes adicionais visados para 2.0](https://github.com/Semantic-Org/Semantic-UI/issues?direction=desc&labels=&milestone=3&page=1&sort=updated&state=open)
